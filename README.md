@@ -24,5 +24,7 @@ The NLA leadership wants to analyze loyalty engagement enrollemnts, cancellation
 
 6- Create DAX measures to calculate total enrollments (based on loyalty number) and total flights booked.
 
+To be Updated......
+
 
 
