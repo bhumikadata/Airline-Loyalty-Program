@@ -1,7 +1,6 @@
 # Airborne Analytics: Navigating Customer Promotion Program
 
-## Dashboard Link: https://app.powerbi.com/groups/me/reports/52e4493a-6a9e-4409-ac83-35f397a7ccc5/ReportSection?experience=power-bi
-
+## Dashboard Link: <iframe title="Airline Loyalty Program" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiZmYxMGM4OGMtMmZiMC00NDA5LWIxOTEtYTI3YmI4OTk5ODVhIiwidCI6ImQzNWE5MjEwLTE3MzMtNGQ3My04NzlhLTJmOGQ3YWNkMTNhOCJ9&pageName=ReportSection" frameborder="0" allowFullScreen="true"></iframe>
 # Problem
 
 For our dashboard we will analyze the loyalty promotion program ran by a hypothetical airline company Northern Lights Air (NLA). It ran the program from 1st Feb - 30th April 2018, offering 1.5x loyalty card points to new member for flights booked through the remainder of the year.
